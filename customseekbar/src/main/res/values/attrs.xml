@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <declare-styleable name="CustomSeekBarView">
+        <attr name="customTumb" format="reference" />
+        <attr name="max" format="integer|dimension" />
+    </declare-styleable>
+
+</resources>
